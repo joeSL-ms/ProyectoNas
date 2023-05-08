@@ -1,5 +1,7 @@
 # ProyectoNas!
-[trabajo](https://user-images.githubusercontent.com/127346073/236953683-81e7ac0a-d851-4947-a2e6-fa1f555475ff.jpg)
+
+![trabajo](https://user-images.githubusercontent.com/127346073/236953842-7d6932e5-a29f-448f-87c8-716d1a978c5d.jpg)
+
 
 La idea principal es reunir la informacion posible sobre los proyectos que se han lanzado y hacer un estudio en base de ello, segun las caracteristicas de ingenieria presentes en su estructura
 La obtencion de informacion se realizara tanto de web scraping, api y .csv
